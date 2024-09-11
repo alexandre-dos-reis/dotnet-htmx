@@ -1,6 +1,11 @@
-# Dotnet Vite Htmx Liquid
+# Dotnet Htmx
 
-- A `POC` featuring all stacks mentionned above.
+- A `POC` featuring:
+
+  - `Dotnet` with the `mvc` template
+  - `ViteJs` for handling assets
+  - `Liquid` template view engine
+  - `Htmx` for building spa like app with simplicity
 
 ## Resources
 
